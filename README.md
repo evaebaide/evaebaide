@@ -21,8 +21,7 @@ Technology professional working at the intersection of **cybersecurity, enterpri
 |---|---|
 | **ITSM • CMDB • Flow Designer • Workflow Automation • Platform Governance** | **AI/ML • Fraud Detection • Security Analytics • Python • Data Visualization** |
 | ServiceNow administration, ITSM processes, CMDB configuration and health, workflow automation, and process improvement. | Cybersecurity analytics, artificial intelligence, machine learning, anomaly detection, fraud analytics, and data analysis. |
-| **ServiceNow Portfolio - Coming Soon** | **[Cybersecurity & Data Analytics Portfolio](https://github.com/evaebaide/cybersecurity-ai-ml-data-analytics-portfolio)
-** |
+| **ServiceNow Portfolio - Coming Soon** | **[Cybersecurity & Data Analytics Portfolio](https://github.com/evaebaide/cybersecurity-ai-ml-data-analytics-portfolio)** |
 
 | **IT Audit, Risk & GRC** | **Learning Design & Technology Enablement** |
 |---|---|
