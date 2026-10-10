@@ -1,6 +1,13 @@
+
+<div align="center">
+
 # Eva Okhankhuele, D.Eng.
 
-### ServiceNow • CMDB • Cybersecurity Analytics • GRC • ITSM • AI/ML
+Professional Technology & Applied Research Portfolio
+
+ServiceNow • Workflow Automation • Cybersecurity Analytics • AI/ML • GRC
+
+</div>
 
 Technology professional working at the intersection of **cybersecurity, enterprise workflow automation, data analytics, governance, process improvement, and technology-enabled learning**.
 
