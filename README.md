@@ -10,7 +10,7 @@ Technology professional working at the intersection of **cybersecurity, enterpri
 
 ## Professional Portfolio
 
-| **ServiceNow & Workflow Automation** | **Cybersecurity & Data Analytics** |
+| **ServiceNow & Workflow Automation** | **Cybersecurity, AI/ML & Data Analytics** |
 |---|---|
 | **ITSM • CMDB • Flow Designer • Workflow Automation • Platform Governance** | **AI/ML • Fraud Detection • Security Analytics • Python • Data Visualization** |
 | ServiceNow administration, ITSM processes, CMDB configuration and health, workflow automation, and process improvement. | Cybersecurity analytics, artificial intelligence, machine learning, anomaly detection, fraud analytics, and data analysis. |
